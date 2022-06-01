@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'lab02-dr'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A9EE59909D742DF81577F17E1C60C4B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7755CC169F714CC1B6639629C275F088 }}
           package: .
